@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EdicaoSelecaoTableViewController.imagePickerController(UIImagePickerController, didFinishPickingMediaWithInfo : [String : Any]) -&gt; ():EdicaoSelecaoTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.acao">
+            </PersistentString>
+            <PersistentString
+               value = "self.selecao.foto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelecaoTableViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:SelecaoTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selecao.foto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
