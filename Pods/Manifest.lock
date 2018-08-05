@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.0.1)
+  - SwiftSpinner (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftSpinner
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  SwiftSpinner: 1c80ff6ea1c47e2faa1dfce0fcd5e6b39a47fd51
+
+PODFILE CHECKSUM: c4e3676190cd209db5ab567a3a1c6dc6f3428654
+
+COCOAPODS: 1.5.3
