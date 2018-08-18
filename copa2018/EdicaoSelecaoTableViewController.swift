@@ -45,8 +45,10 @@ class EdicaoSelecaoTableViewController: UITableViewController,
         }
         
         if self.acao == "ALTERAR" {
+            
+            //self.selecoes = self.repositorio.consultar()
             self.tfNome.text = self.selecao.nome
-            self.tfQuantTitulo.text = "99"
+            self.tfQuantTitulo.text = selecao.quantTitulos
             
             //TODO: carregar a imagem!
             self.imFoto.image = ir.load(self.selecao.foto!)
